@@ -1,16 +1,31 @@
-# flutter_application_13
+# Flutter Calculator App
 
-A new Flutter project.
+A simple yet elegant calculator application built with Flutter. This project demonstrates the use of **custom widgets**, **state management**, and a clean UI design.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- **Basic Arithmetic Operations**: Perform addition, subtraction, multiplication, and division effortlessly.
+- **Reusable Widgets**: Includes a custom `CalcButton` widget for creating uniform and consistent calculator buttons.
+- **Responsive UI**: Adapts beautifully to different screen sizes and devices.
+- **Modern Design**: Styled with `Google Fonts` for a sleek and minimalistic appearance.
+- **Modular Codebase**: Easy to read, modify, and extend.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Getting Started
+
+Follow these steps to get a local copy of the app running on your system.
+
+### Prerequisites
+
+- [Flutter SDK](https://flutter.dev/docs/get-started/install)
+- Any IDE that supports Flutter, like [Android Studio](https://developer.android.com/studio) or [Visual Studio Code](https://code.visualstudio.com/).
+
+### Installation
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/your-username/flutter-calculator.git
+   cd flutter-calculator
